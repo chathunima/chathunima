@@ -23,7 +23,7 @@
 </h1>
 </div>
 
-### :technologist: About Me :
+### About Me :
 
 - 👋 I’m Sanduni @chathunima
 - 👀 I’m interested in UI/UX Engineering
@@ -31,7 +31,7 @@
 - 💞️ I love to work with open source projects while improving my knowledge
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div style="background-color:rgb(255,255,255)">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
